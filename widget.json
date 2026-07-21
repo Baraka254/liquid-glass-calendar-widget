@@ -1,6 +1,5 @@
 {
-  "name": "Liquid Calendar",
-  "description": "A glassmorphism calendar widget with draggable and resizable positioning for Übersicht.",
-  "author": "Baraka",
-  "email": "baraka@example.com"
+  "name": "Liquid Glass Calendar",
+  "description": "A polished glassmorphism calendar widget for Übersicht with draggable and resizable controls.",
+  "author": "Emmanuel Baraka"
 }

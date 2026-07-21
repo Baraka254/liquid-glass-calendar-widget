@@ -1,2 +1,3 @@
 *.zip
+!liquid-glass-calendar.widget.zip
 .DS_Store
