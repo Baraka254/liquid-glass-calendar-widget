@@ -2,6 +2,16 @@
 
 A polished glassmorphism-style calendar widget for Übersicht with drag-and-resize support.
 
+This widget presents the current day, month, and year in a modern glass-card layout, plus a compact calendar grid. It can be dragged around the screen, resized from the edges, and remembers its last position and size.
+
+## Features
+
+- Glassmorphism-inspired visual design
+- Drag-and-drop positioning
+- Edge resizing with live feedback
+- Persistent layout state using browser storage
+- Fast, lightweight experience for Übersicht users
+
 ## What it does
 
 - Shows the current day, month, and year in a clean glass card
